@@ -1,0 +1,50 @@
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+.nav_bar {
+  background: #e4d2ba;
+  text-align: center;
+  font-size: 30px;
+  color: #005959;
+  padding: 1 px;
+  border-radius: 10px;
+}
+
+input {
+  border: 0px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 10px;
+  outline: none;
+}
+
+button {
+  border: 0px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 10px;
+  outline: none;
+  background: #695a46;
+  font-weight: 600;
+  color: #e4d2ba;
+  cursor: pointer;
+}
+
+.contact_list {
+  background: #005959;
+  padding: 1rem;
+  margin: 5px;
+  border-radius: 5px;
+}
+.contact {
+  background: white;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
+.contact_adder {
+  background: #005959;
+  padding: 1rem;
+  margin: 5px;
+  border-radius: 5px;
+}
